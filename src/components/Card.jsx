@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-import { download } from '../assets';
+import { download } from '../assests';
 import { downloadImage } from '../utils';
 
 const Card = ({ _id, name, prompt, photo }) => {
