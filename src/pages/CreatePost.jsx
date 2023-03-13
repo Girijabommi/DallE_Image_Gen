@@ -4,7 +4,7 @@ import { preview } from '../assets'
 import { getRandomPrompt } from '../utils'
 import { FormField, Loader } from "../components"
 import FileSaver from 'file-saver';
-import { download } from '../assets';
+import { download } from '../assests';
 import { downloadImage } from '../utils';
 
 const CreatePost = () => {
