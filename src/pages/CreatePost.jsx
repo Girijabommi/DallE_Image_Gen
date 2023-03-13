@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { preview } from '../assets'
+import { preview } from '../assests'
 import { getRandomPrompt } from '../utils'
 import { FormField, Loader } from "../components"
 import FileSaver from 'file-saver';
